@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/C_Hello/bin/Debug/net7.0/Chello
+/workspaces/TRCsharp/Programs/C_Hello/bin/Debug/net7.0/Chello.deps.json
+/workspaces/TRCsharp/Programs/C_Hello/bin/Debug/net7.0/Chello.runtimeconfig.json
+/workspaces/TRCsharp/Programs/C_Hello/bin/Debug/net7.0/Chello.dll
+/workspaces/TRCsharp/Programs/C_Hello/bin/Debug/net7.0/Chello.pdb
+/workspaces/TRCsharp/Programs/C_Hello/obj/Debug/net7.0/Chello.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/C_Hello/obj/Debug/net7.0/Chello.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/C_Hello/obj/Debug/net7.0/Chello.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/C_Hello/obj/Debug/net7.0/Chello.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/C_Hello/obj/Debug/net7.0/Chello.dll
+/workspaces/TRCsharp/Programs/C_Hello/obj/Debug/net7.0/refint/Chello.dll
+/workspaces/TRCsharp/Programs/C_Hello/obj/Debug/net7.0/Chello.pdb
+/workspaces/TRCsharp/Programs/C_Hello/obj/Debug/net7.0/Chello.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/C_Hello/obj/Debug/net7.0/ref/Chello.dll
