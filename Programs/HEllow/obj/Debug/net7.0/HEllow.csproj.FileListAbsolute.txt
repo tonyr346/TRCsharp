@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/HEllow/bin/Debug/net7.0/HEllow
+/workspaces/TRCsharp/Programs/HEllow/bin/Debug/net7.0/HEllow.deps.json
+/workspaces/TRCsharp/Programs/HEllow/bin/Debug/net7.0/HEllow.runtimeconfig.json
+/workspaces/TRCsharp/Programs/HEllow/bin/Debug/net7.0/HEllow.dll
+/workspaces/TRCsharp/Programs/HEllow/bin/Debug/net7.0/HEllow.pdb
+/workspaces/TRCsharp/Programs/HEllow/obj/Debug/net7.0/HEllow.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/HEllow/obj/Debug/net7.0/HEllow.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/HEllow/obj/Debug/net7.0/HEllow.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/HEllow/obj/Debug/net7.0/HEllow.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/HEllow/obj/Debug/net7.0/HEllow.dll
+/workspaces/TRCsharp/Programs/HEllow/obj/Debug/net7.0/refint/HEllow.dll
+/workspaces/TRCsharp/Programs/HEllow/obj/Debug/net7.0/HEllow.pdb
+/workspaces/TRCsharp/Programs/HEllow/obj/Debug/net7.0/HEllow.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/HEllow/obj/Debug/net7.0/ref/HEllow.dll
