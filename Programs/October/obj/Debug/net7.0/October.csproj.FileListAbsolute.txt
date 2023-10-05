@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/October/bin/Debug/net7.0/October
+/workspaces/TRCsharp/Programs/October/bin/Debug/net7.0/October.deps.json
+/workspaces/TRCsharp/Programs/October/bin/Debug/net7.0/October.runtimeconfig.json
+/workspaces/TRCsharp/Programs/October/bin/Debug/net7.0/October.dll
+/workspaces/TRCsharp/Programs/October/bin/Debug/net7.0/October.pdb
+/workspaces/TRCsharp/Programs/October/obj/Debug/net7.0/October.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/October/obj/Debug/net7.0/October.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/October/obj/Debug/net7.0/October.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/October/obj/Debug/net7.0/October.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/October/obj/Debug/net7.0/October.dll
+/workspaces/TRCsharp/Programs/October/obj/Debug/net7.0/refint/October.dll
+/workspaces/TRCsharp/Programs/October/obj/Debug/net7.0/October.pdb
+/workspaces/TRCsharp/Programs/October/obj/Debug/net7.0/October.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/October/obj/Debug/net7.0/ref/October.dll
