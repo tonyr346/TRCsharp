@@ -18,6 +18,16 @@ class Program
         double d;
         d = CalcMain(a);
 
+        d = Math.Round(d,2);
+
+        double[] numbers1 = {0,32, 4,6} ;
+
+        foreach (double number in numbers1)
+        {
+            Console.WriteLine($"{number}");
+        }
+
+
         Console.WriteLine(d);
     }
 }
