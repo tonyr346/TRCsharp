@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/GearMethods/bin/Debug/net7.0/GearMethods
+/workspaces/TRCsharp/Programs/GearMethods/bin/Debug/net7.0/GearMethods.deps.json
+/workspaces/TRCsharp/Programs/GearMethods/bin/Debug/net7.0/GearMethods.runtimeconfig.json
+/workspaces/TRCsharp/Programs/GearMethods/bin/Debug/net7.0/GearMethods.dll
+/workspaces/TRCsharp/Programs/GearMethods/bin/Debug/net7.0/GearMethods.pdb
+/workspaces/TRCsharp/Programs/GearMethods/obj/Debug/net7.0/GearMethods.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/GearMethods/obj/Debug/net7.0/GearMethods.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/GearMethods/obj/Debug/net7.0/GearMethods.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/GearMethods/obj/Debug/net7.0/GearMethods.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/GearMethods/obj/Debug/net7.0/GearMethods.dll
+/workspaces/TRCsharp/Programs/GearMethods/obj/Debug/net7.0/refint/GearMethods.dll
+/workspaces/TRCsharp/Programs/GearMethods/obj/Debug/net7.0/GearMethods.pdb
+/workspaces/TRCsharp/Programs/GearMethods/obj/Debug/net7.0/GearMethods.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/GearMethods/obj/Debug/net7.0/ref/GearMethods.dll
