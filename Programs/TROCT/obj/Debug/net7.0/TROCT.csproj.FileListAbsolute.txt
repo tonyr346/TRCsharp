@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/TROCT/bin/Debug/net7.0/TROCT
+/workspaces/TRCsharp/Programs/TROCT/bin/Debug/net7.0/TROCT.deps.json
+/workspaces/TRCsharp/Programs/TROCT/bin/Debug/net7.0/TROCT.runtimeconfig.json
+/workspaces/TRCsharp/Programs/TROCT/bin/Debug/net7.0/TROCT.dll
+/workspaces/TRCsharp/Programs/TROCT/bin/Debug/net7.0/TROCT.pdb
+/workspaces/TRCsharp/Programs/TROCT/obj/Debug/net7.0/TROCT.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/TROCT/obj/Debug/net7.0/TROCT.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/TROCT/obj/Debug/net7.0/TROCT.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/TROCT/obj/Debug/net7.0/TROCT.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/TROCT/obj/Debug/net7.0/TROCT.dll
+/workspaces/TRCsharp/Programs/TROCT/obj/Debug/net7.0/refint/TROCT.dll
+/workspaces/TRCsharp/Programs/TROCT/obj/Debug/net7.0/TROCT.pdb
+/workspaces/TRCsharp/Programs/TROCT/obj/Debug/net7.0/TROCT.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/TROCT/obj/Debug/net7.0/ref/TROCT.dll
