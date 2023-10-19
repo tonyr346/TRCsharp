@@ -29,8 +29,10 @@ class Program
 
         int e = Convert.ToInt32(GetInput("Enter a Number: "));
 
-     
-           
+        if (e==9)
+        {}
+        else
+        {   
 
         switch (e)
         {
@@ -61,7 +63,7 @@ class Program
 
         }
 
-        
+        }
 
 
 
