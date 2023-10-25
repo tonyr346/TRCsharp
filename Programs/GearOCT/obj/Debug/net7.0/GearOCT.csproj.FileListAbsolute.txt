@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/GearOCT/bin/Debug/net7.0/GearOCT
+/workspaces/TRCsharp/Programs/GearOCT/bin/Debug/net7.0/GearOCT.deps.json
+/workspaces/TRCsharp/Programs/GearOCT/bin/Debug/net7.0/GearOCT.runtimeconfig.json
+/workspaces/TRCsharp/Programs/GearOCT/bin/Debug/net7.0/GearOCT.dll
+/workspaces/TRCsharp/Programs/GearOCT/bin/Debug/net7.0/GearOCT.pdb
+/workspaces/TRCsharp/Programs/GearOCT/obj/Debug/net7.0/GearOCT.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/GearOCT/obj/Debug/net7.0/GearOCT.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/GearOCT/obj/Debug/net7.0/GearOCT.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/GearOCT/obj/Debug/net7.0/GearOCT.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/GearOCT/obj/Debug/net7.0/GearOCT.dll
+/workspaces/TRCsharp/Programs/GearOCT/obj/Debug/net7.0/refint/GearOCT.dll
+/workspaces/TRCsharp/Programs/GearOCT/obj/Debug/net7.0/GearOCT.pdb
+/workspaces/TRCsharp/Programs/GearOCT/obj/Debug/net7.0/GearOCT.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/GearOCT/obj/Debug/net7.0/ref/GearOCT.dll
