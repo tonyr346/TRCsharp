@@ -35,7 +35,7 @@ class Program
             return;
     }
 
-    static void CreateTXT(double [] A)
+    static void CreateTXT(List<int> A)
     {
        
 
@@ -71,6 +71,16 @@ class Program
        }    
     }
 
+    static List<int> CreLis()
+    {
+        List <int> AList = new List<int>();
+        for(int i = 0; i<5; i++)
+       {
+         AList.Add(i);
+       }
+        return AList;
+    }
+
 
 
 
@@ -80,9 +90,11 @@ class Program
       //GetDIRS();
 
       double [] Ary = {1,2,3,4,5,6,7,8,9};
+      List<int> Alist = new List<int>();
+      Alist = CreLis();
+      CreateTXT(Alist);
 
-
-      CreateTXT(Ary);
+      
 
       Console.WriteLine("Completed Request");
 
