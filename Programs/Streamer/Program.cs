@@ -71,13 +71,17 @@ class Program
        }    
     }
 
-    static List<int> CreLis()
+    static List<int> CreLis(int a, int b, int c)
     {
         List <int> AList = new List<int>();
         for(int i = 0; i<5; i++)
        {
          AList.Add(i);
        }
+       AList.Add(a);
+       AList.Add(b);
+       AList.Add(c);
+
         return AList;
     }
 
@@ -91,7 +95,7 @@ class Program
 
       double [] Ary = {1,2,3,4,5,6,7,8,9};
       List<int> Alist = new List<int>();
-      Alist = CreLis();
+      Alist = CreLis(1,5,7);
       CreateTXT(Alist);
 
       
