@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/Streamer/bin/Debug/net7.0/Streamer
+/workspaces/TRCsharp/Programs/Streamer/bin/Debug/net7.0/Streamer.deps.json
+/workspaces/TRCsharp/Programs/Streamer/bin/Debug/net7.0/Streamer.runtimeconfig.json
+/workspaces/TRCsharp/Programs/Streamer/bin/Debug/net7.0/Streamer.dll
+/workspaces/TRCsharp/Programs/Streamer/bin/Debug/net7.0/Streamer.pdb
+/workspaces/TRCsharp/Programs/Streamer/obj/Debug/net7.0/Streamer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/Streamer/obj/Debug/net7.0/Streamer.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/Streamer/obj/Debug/net7.0/Streamer.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/Streamer/obj/Debug/net7.0/Streamer.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/Streamer/obj/Debug/net7.0/Streamer.dll
+/workspaces/TRCsharp/Programs/Streamer/obj/Debug/net7.0/refint/Streamer.dll
+/workspaces/TRCsharp/Programs/Streamer/obj/Debug/net7.0/Streamer.pdb
+/workspaces/TRCsharp/Programs/Streamer/obj/Debug/net7.0/Streamer.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/Streamer/obj/Debug/net7.0/ref/Streamer.dll
