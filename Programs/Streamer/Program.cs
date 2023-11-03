@@ -37,11 +37,38 @@ class Program
 
     static void CreateTXT(double [] A)
     {
-        foreach (var i in A)
+       
+
+       string stpath = (@"/workspaces/TRCsharp/Programs/Streamer/txt");
+       
+       string fn = "Array.txt";
+       string usrFn = "";
+       bool isok = true;
+       
+       Console.Write("Enter File Name:");
+       
+       usrFn = Console.ReadLine()!;
+
+       isok = string.IsNullOrEmpty(usrFn);
+
+       if (isok == true)
+       usrFn = fn;
+       else
+       usrFn = usrFn +".txt";
+
+       
+
+       using (StreamWriter sw = new StreamWriter(Path.Combine(stpath,usrFn)))
+       {
+            
+         foreach (var i in A)
         {
-            Console.WriteLine(i);
+            sw.WriteLine(i);
         }
-        return;
+       
+       return;
+
+       }    
     }
 
 
@@ -57,6 +84,7 @@ class Program
 
       CreateTXT(Ary);
 
+      Console.WriteLine("Completed Request");
 
     }
 }
