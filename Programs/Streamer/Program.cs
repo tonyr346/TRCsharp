@@ -93,13 +93,18 @@ class Program
     {
       //GetDIRS();
 
-      double [] Ary = {1,2,3,4,5,6,7,8,9};
+    /* double [] Ary = {1,2,3,4,5,6,7,8,9};
       List<int> Alist = new List<int>();
       Alist = CreLis(1,5,7);
       CreateTXT(Alist);
-
+    */
       
-
+     
+        using(var sr = new StreamReader(@"/workspaces/TRCsharp/Programs/Streamer/txt/Tony R.txt"))
+        {
+            Console.WriteLine(sr.ReadToEnd());
+        }
+     
       Console.WriteLine("Completed Request");
 
     }
