@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/KeyRead/bin/Debug/net7.0/KeyRead
+/workspaces/TRCsharp/Programs/KeyRead/bin/Debug/net7.0/KeyRead.deps.json
+/workspaces/TRCsharp/Programs/KeyRead/bin/Debug/net7.0/KeyRead.runtimeconfig.json
+/workspaces/TRCsharp/Programs/KeyRead/bin/Debug/net7.0/KeyRead.dll
+/workspaces/TRCsharp/Programs/KeyRead/bin/Debug/net7.0/KeyRead.pdb
+/workspaces/TRCsharp/Programs/KeyRead/obj/Debug/net7.0/KeyRead.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/KeyRead/obj/Debug/net7.0/KeyRead.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/KeyRead/obj/Debug/net7.0/KeyRead.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/KeyRead/obj/Debug/net7.0/KeyRead.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/KeyRead/obj/Debug/net7.0/KeyRead.dll
+/workspaces/TRCsharp/Programs/KeyRead/obj/Debug/net7.0/refint/KeyRead.dll
+/workspaces/TRCsharp/Programs/KeyRead/obj/Debug/net7.0/KeyRead.pdb
+/workspaces/TRCsharp/Programs/KeyRead/obj/Debug/net7.0/KeyRead.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/KeyRead/obj/Debug/net7.0/ref/KeyRead.dll
