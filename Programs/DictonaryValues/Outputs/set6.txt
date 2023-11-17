@@ -1,0 +1,6 @@
+FileName=set6.txt
+Np=17
+Ng=87
+Pitch=10
+Center=520
+Ratio=5.1176

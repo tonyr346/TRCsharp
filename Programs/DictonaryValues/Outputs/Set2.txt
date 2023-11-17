@@ -1,0 +1,6 @@
+FileName=Set2.txt
+Np=16
+Ng=48
+Pitch=5
+Center=160
+Ratio=3

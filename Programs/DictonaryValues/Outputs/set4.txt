@@ -1,0 +1,6 @@
+FileName=set4.txt
+Np=18
+Ng=68
+Pitch=4
+Center=172
+Ratio=3.7778

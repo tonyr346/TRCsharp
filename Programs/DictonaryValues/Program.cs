@@ -14,6 +14,8 @@ class Program
 
         public string fail = "Failed";
         public string mratio = "Ratio: ";
+
+        public string path = "/workspaces/TRCsharp/Programs/DictonaryValues/Outputs";
         
         public string line = "----------------------------------";
 
@@ -78,11 +80,111 @@ class Program
         double Ctr = (pitch*np+pitch*ng)/2;
         return Ctr;
     }
+
+     static void SaveToText(double Np, double Ng, double Pitch, double Center, double ratio)
+    {
+        // Combine the directory path and the filename using Path.Combine
+        string fn = "Array.txt";
+        string usrFn = "";
+        bool isok = true;
+       
+        Console.Write("Enter File Name:");
+       
+        usrFn = Console.ReadLine()!;
+
+        isok = string.IsNullOrEmpty(usrFn);
+
+         if (isok == true)
+        usrFn = fn;
+         else
+         usrFn = usrFn +".txt";
+       
+       
+       
+        string outputPath = Path.Combine("/workspaces/TRCsharp/Programs/DictonaryValues/Outputs/", usrFn);
+
+        using (StreamWriter writer = new StreamWriter(outputPath))
+        {
+            writer.WriteLine($"FileName={usrFn}");
+            writer.WriteLine($"Np={Np}");
+            writer.WriteLine($"Ng={Ng}");
+            writer.WriteLine($"Pitch={Pitch}");
+            writer.WriteLine($"Center={Center}");
+            writer.WriteLine($"Ratio={ratio}");
+        }
+    }
+    
+    static void ReadSpecificDataFromText(string path, string filename, string key)
+    {
+        // Combine the directory path and the filename using Path.Combine
+        string filePath = Path.Combine(path, filename);
+
+        using (StreamReader reader = new StreamReader(filePath))
+        {
+            string line="";
+            while ((line = reader.ReadLine()) != null)
+            {
+                string[] parts = line.Split('=');
+                if (parts.Length == 2 && parts[0] == key)
+                {
+                    Console.WriteLine($"{key}: {parts[1]!}");
+                    break; // Stop reading once the desired key is found
+                }
+            }
+        }
+    }
+    
+    static void CreateTXT(List<double> A)
+    {
+       
+
+       string stpath = (@"/workspaces/TRCsharp/Programs/DictonaryValues/Outputs/");
+       
+       string fn = "Array.txt";
+       string usrFn = "";
+       bool isok = true;
+       
+       Console.Write("Enter File Name:");
+       
+       usrFn = Console.ReadLine()!;
+
+       isok = string.IsNullOrEmpty(usrFn);
+
+       if (isok == true)
+       usrFn = fn;
+       else
+       usrFn = usrFn +".txt";
+
+       using (StreamWriter sw = new StreamWriter(Path.Combine(stpath,usrFn)))
+       {
+         foreach (var i in A)
+        {
+            sw.WriteLine(i);
+        }
+       
+         return;
+
+       }    
+    }
+
+    static List<double> CreLis(double a, double b, double c, double d)
+    {
+        List <double> AList = new List<double>();
+    
+       AList.Add(a);
+       AList.Add(b);
+       AList.Add(c);
+       AList.Add(d);
+
+       return AList;
+    }
   
     static void Main(string[] args)
      {
        
         Messages Dialog = new Messages(); 
+        List<double> Outputs = new List<double>(); 
+
         double np, ng, P;
 
         Display(Dialog.line);
@@ -98,11 +200,16 @@ class Program
         Display($"The Ratio is: {ratio1}");
         Display($"The Ctr Dist is: {center}");
 
+        Outputs = CreLis(np, ng, P, center);
 
+        SaveToText(np,ng,P,center,ratio1);
 
+        string userreq = GetData("Enter Which Set you want the ratio for: ");
+        string pt2 = userreq+".txt";
 
+        ReadSpecificDataFromText(Dialog.path,pt2, "Ratio");
 
-
+  
 
         Display(Dialog.line);
         Display(Dialog.M2);

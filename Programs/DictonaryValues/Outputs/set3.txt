@@ -1,0 +1,6 @@
+FileName=set3.txt
+Np=19
+Ng=84
+Pitch=3
+Center=154.5
+Ratio=4.4211

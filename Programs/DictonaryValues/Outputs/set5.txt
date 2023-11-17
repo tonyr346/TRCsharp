@@ -1,0 +1,6 @@
+FileName=set5.txt
+Np=18
+Ng=93
+Pitch=4
+Center=222
+Ratio=5.1667
