@@ -4,6 +4,7 @@
 class Program
 {
     
+        
     public class Messages
     {
         public string M1 = "Hello";
@@ -12,7 +13,7 @@ class Program
 
         public string fail = "Failed";
 
-        public string lne = "----------------------------------";
+        public string line = "----------------------------------";
 
       
     }
@@ -26,7 +27,7 @@ class Program
     static string GetData(string Message)
     {
         string usrstr = "";
-        Console.WriteLine(Message);
+        Console.Write(Message);
         usrstr = Console.ReadLine()!;
         return usrstr;
     }
@@ -57,29 +58,33 @@ class Program
         return value;
     }
 
+  
+
 
 
 
     static void Main(string[] args)
      {
+       
         Messages Dialog = new Messages(); 
 
-        string value = "Name";
+        string value = GetData(Dialog.UsrIn);
         double a;
 
         if (IsDouble(value))
         {   a = RetDbl(value);
-            double b = a * 5;}
+            double b = a * 5;
+            Console.WriteLine(b);}
     
         else
         {Display(Dialog.fail);};
 
+                
+     
         
         
-        
-        
-        Display(Dialog.lne);
+        Display(Dialog.line);
         Display(Dialog.M2);
-        Display(Dialog.lne);
+        Display(Dialog.line);
     }
 }
