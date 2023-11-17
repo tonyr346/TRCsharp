@@ -10,6 +10,8 @@ class Program
         public string M2 = "Program Complete";
         public string UsrIn = "Enter a value: ";
 
+        public string fail = "Failed";
+
         public string lne = "----------------------------------";
 
       
@@ -47,7 +49,13 @@ class Program
         isDouble = Double.TryParse(text, out num);
  
             return isDouble;
-        }
+    }
+
+    public static double RetDbl(string text)
+    {
+        double value = Convert.ToDouble(text);
+        return value;
+    }
 
 
 
@@ -55,6 +63,19 @@ class Program
     static void Main(string[] args)
      {
         Messages Dialog = new Messages(); 
+
+        string value = "Name";
+        double a;
+
+        if (IsDouble(value))
+        {   a = RetDbl(value);
+            double b = a * 5;}
+    
+        else
+        {Display(Dialog.fail);};
+
+        
+        
         
         
         Display(Dialog.lne);
