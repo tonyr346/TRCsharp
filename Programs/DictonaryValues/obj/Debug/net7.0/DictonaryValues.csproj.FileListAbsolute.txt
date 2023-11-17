@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/DictonaryValues/bin/Debug/net7.0/DictonaryValues
+/workspaces/TRCsharp/Programs/DictonaryValues/bin/Debug/net7.0/DictonaryValues.deps.json
+/workspaces/TRCsharp/Programs/DictonaryValues/bin/Debug/net7.0/DictonaryValues.runtimeconfig.json
+/workspaces/TRCsharp/Programs/DictonaryValues/bin/Debug/net7.0/DictonaryValues.dll
+/workspaces/TRCsharp/Programs/DictonaryValues/bin/Debug/net7.0/DictonaryValues.pdb
+/workspaces/TRCsharp/Programs/DictonaryValues/obj/Debug/net7.0/DictonaryValues.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/DictonaryValues/obj/Debug/net7.0/DictonaryValues.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/DictonaryValues/obj/Debug/net7.0/DictonaryValues.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/DictonaryValues/obj/Debug/net7.0/DictonaryValues.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/DictonaryValues/obj/Debug/net7.0/DictonaryValues.dll
+/workspaces/TRCsharp/Programs/DictonaryValues/obj/Debug/net7.0/refint/DictonaryValues.dll
+/workspaces/TRCsharp/Programs/DictonaryValues/obj/Debug/net7.0/DictonaryValues.pdb
+/workspaces/TRCsharp/Programs/DictonaryValues/obj/Debug/net7.0/DictonaryValues.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/DictonaryValues/obj/Debug/net7.0/ref/DictonaryValues.dll
