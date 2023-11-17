@@ -10,9 +10,12 @@ class Program
         public string M1 = "Hello";
         public string M2 = "Program Complete";
         public string UsrIn = "Enter a value: ";
+        public string Usrnp = "Enter Np: ";
+        public string Usrng = "Enter Ng: ";
 
         public string fail = "Failed";
-
+        public string mratio = "Ratio: ";
+        
         public string line = "----------------------------------";
 
       
@@ -24,6 +27,28 @@ class Program
         return;
     }
 
+    static bool TryGetDouble(string dialog, out double result)
+        {
+            result = 0;
+            bool isValid = false;
+
+            while (!isValid)
+            {
+                string value = GetData(dialog);
+
+                if (IsDouble(value))
+                {
+                    result = RetDbl(value);
+                    isValid = true;
+                }
+                else
+                {
+                    Display("Failed");
+                }
+            }
+            return isValid;
+        }    
+
     static string GetData(string Message)
     {
         string usrstr = "";
@@ -31,33 +56,27 @@ class Program
         usrstr = Console.ReadLine()!;
         return usrstr;
     }
-    public static bool check(string s) 
-    { 
-        return (s == null || s == String.Empty) ? true : false; 
-    } 
-
+   
     public static bool IsDouble(string text)
-    {
-         Double num = 0;
-         bool isDouble = false;
- 
-        // Check for empty string.
-        if (check(text))
         {
-            return false;
+            double num = 0;
+            return !string.IsNullOrEmpty(text) && double.TryParse(text, out num);
         }
- 
-        isDouble = Double.TryParse(text, out num);
- 
-            return isDouble;
-    }
+
+
+
+   
 
     public static double RetDbl(string text)
     {
-        double value = Convert.ToDouble(text);
-        return value;
+        return Convert.ToDouble(text);
     }
 
+    static double Ratio(double a, double b)
+    {
+        double ratio = b /a;
+        return ratio;
+    }
   
 
 
@@ -67,22 +86,16 @@ class Program
      {
        
         Messages Dialog = new Messages(); 
-
-        string value = GetData(Dialog.UsrIn);
-        double a;
-
-        if (IsDouble(value))
-        {   a = RetDbl(value);
-            double b = a * 5;
-            Console.WriteLine(b);}
-    
-        else
-        {Display(Dialog.fail);};
-
-                
-     
+        double np, ng;
+            
+        np = TryGetDouble(Dialog.Usrnp, out double temp) ? temp : 0;
+        ng = TryGetDouble(Dialog.Usrng, out temp) ? temp : 0; 
         
+        double ratio1 = Math.Round(Ratio(np,ng),4);
+
+        Display($"The Ratio is: {ratio1}");
         
+           
         Display(Dialog.line);
         Display(Dialog.M2);
         Display(Dialog.line);
