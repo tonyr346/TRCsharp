@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/TRDEC/bin/Debug/net7.0/TRDEC
+/workspaces/TRCsharp/Programs/TRDEC/bin/Debug/net7.0/TRDEC.deps.json
+/workspaces/TRCsharp/Programs/TRDEC/bin/Debug/net7.0/TRDEC.runtimeconfig.json
+/workspaces/TRCsharp/Programs/TRDEC/bin/Debug/net7.0/TRDEC.dll
+/workspaces/TRCsharp/Programs/TRDEC/bin/Debug/net7.0/TRDEC.pdb
+/workspaces/TRCsharp/Programs/TRDEC/obj/Debug/net7.0/TRDEC.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/TRDEC/obj/Debug/net7.0/TRDEC.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/TRDEC/obj/Debug/net7.0/TRDEC.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/TRDEC/obj/Debug/net7.0/TRDEC.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/TRDEC/obj/Debug/net7.0/TRDEC.dll
+/workspaces/TRCsharp/Programs/TRDEC/obj/Debug/net7.0/refint/TRDEC.dll
+/workspaces/TRCsharp/Programs/TRDEC/obj/Debug/net7.0/TRDEC.pdb
+/workspaces/TRCsharp/Programs/TRDEC/obj/Debug/net7.0/TRDEC.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/TRDEC/obj/Debug/net7.0/ref/TRDEC.dll
