@@ -30,6 +30,16 @@ class Program
         public double PayScale = 1.23;
 
     }
+
+        public class Student : Person
+    {
+        
+        public string? Role {get; set;}
+        public string? StartDate {get; set;}
+
+        public double PayScale = 1.03;
+
+    }
     
     
     
@@ -46,6 +56,7 @@ class Program
         TR.Age = "38";
 
         Employee TR2 = new Employee();
+        Student TR3 = new Student();
 
 
         Console.WriteLine(TR.Name);
@@ -55,9 +66,11 @@ class Program
 
         double payMan = TR.PayScale * 40;
         double payEmp = TR2.PayScale*40;
+        double payStu = TR3.PayScale*40;
 
         Console.WriteLine(payMan);
         Console.WriteLine(payEmp);
+        Console.WriteLine(payStu);
 
 
 
