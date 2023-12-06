@@ -3,6 +3,26 @@
 class Program
 {
     
+  public class SetData:Calc
+  {
+    public double Np, Ng, Mod, Ratio;
+    public double CD {get; private set;}
+
+    public SetData(Gear A, double mod)
+    {
+        Np = A.Np;
+        Ng = A.Ng;
+        Mod = mod;
+        CD = CalcCD1(A.Np, A.Ng, Mod);
+        Ratio = DblRatio (A.Np, A.Ng);
+        
+    }
+
+
+
+
+  }
+  
   public class Calc
         {
             static public double DblRatio(double Np, double Ng)
@@ -10,19 +30,20 @@ class Program
                 double ratio = Ng / Np;
                 return ratio;
             }
+
+            static public double CalcCD1(double Np, double Ng, double Mod)
+            {
+                double CD1 = (Np+Ng)*Mod/2;
+                return CD1;
+            }
+
+
         }
 
         public class Gear : Calc
         {
             public double Np { get; set; }
             public double Ng { get; set; }
-            public double Ratio { get; private set; }
-
-            public void CalculateRatio()
-            {
-                // Calculate the ratio when needed
-                Ratio = DblRatio(Np, Ng);
-            }
         }
 
         static void Main(string[] args)
@@ -31,23 +52,17 @@ class Program
 
             // Set Np and Ng values
             Set1.Np = 18;
-            Set1.Ng = 36.2;
+            Set1.Ng = 39;
+            
+            SetData Set1D = new SetData(Set1, 4);
+            
+                 
 
-            // Calculate the ratio after setting values
-            Set1.CalculateRatio();
+            Console.WriteLine($"CD: {Set1D.CD}");
+            Console.WriteLine($"Ratio: {Set1D.Ratio}");
 
-            // Access the ratio property
-            Console.WriteLine(Set1.Ratio);
 
-            // You can create additional sets
-            Gear Set2 = new Gear();
-            Set2.Np = 20;
-            Set2.Ng = 40;
 
-            // Calculate the ratio for Set2
-            Set2.CalculateRatio();
 
-            // Access the ratio property for Set2
-            Console.WriteLine(Set2.Ratio);
         }
  }
