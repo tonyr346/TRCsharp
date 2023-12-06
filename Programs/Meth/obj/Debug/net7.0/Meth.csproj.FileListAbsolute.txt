@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/Meth/obj/Debug/net7.0/Meth.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/Meth/obj/Debug/net7.0/Meth.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/Meth/obj/Debug/net7.0/Meth.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/Meth/obj/Debug/net7.0/Meth.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/Meth/bin/Debug/net7.0/Meth
+/workspaces/TRCsharp/Programs/Meth/bin/Debug/net7.0/Meth.deps.json
+/workspaces/TRCsharp/Programs/Meth/bin/Debug/net7.0/Meth.runtimeconfig.json
+/workspaces/TRCsharp/Programs/Meth/bin/Debug/net7.0/Meth.dll
+/workspaces/TRCsharp/Programs/Meth/bin/Debug/net7.0/Meth.pdb
+/workspaces/TRCsharp/Programs/Meth/obj/Debug/net7.0/Meth.dll
+/workspaces/TRCsharp/Programs/Meth/obj/Debug/net7.0/refint/Meth.dll
+/workspaces/TRCsharp/Programs/Meth/obj/Debug/net7.0/Meth.pdb
+/workspaces/TRCsharp/Programs/Meth/obj/Debug/net7.0/Meth.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/Meth/obj/Debug/net7.0/ref/Meth.dll
