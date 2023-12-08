@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/IFz/bin/Debug/net7.0/IFz
+/workspaces/TRCsharp/Programs/IFz/bin/Debug/net7.0/IFz.deps.json
+/workspaces/TRCsharp/Programs/IFz/bin/Debug/net7.0/IFz.runtimeconfig.json
+/workspaces/TRCsharp/Programs/IFz/bin/Debug/net7.0/IFz.dll
+/workspaces/TRCsharp/Programs/IFz/bin/Debug/net7.0/IFz.pdb
+/workspaces/TRCsharp/Programs/IFz/obj/Debug/net7.0/IFz.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/IFz/obj/Debug/net7.0/IFz.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/IFz/obj/Debug/net7.0/IFz.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/IFz/obj/Debug/net7.0/IFz.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/IFz/obj/Debug/net7.0/IFz.dll
+/workspaces/TRCsharp/Programs/IFz/obj/Debug/net7.0/refint/IFz.dll
+/workspaces/TRCsharp/Programs/IFz/obj/Debug/net7.0/IFz.pdb
+/workspaces/TRCsharp/Programs/IFz/obj/Debug/net7.0/IFz.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/IFz/obj/Debug/net7.0/ref/IFz.dll
