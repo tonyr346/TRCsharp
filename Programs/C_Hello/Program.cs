@@ -4,6 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
+        
+        var rand = new Random(); 
+
         Console.WriteLine("THIS IS CORRECT");
 
         double[] arrayone  = new double[15];

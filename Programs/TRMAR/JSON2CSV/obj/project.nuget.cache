@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQcec7laZxdj15TbTz+SOEPTvnQoCtsAAf9LwNTH/HCumHYurkXtj9bvCY/5tm7DSsY+sca50xwfYwYk7fS8pA==",
+  "success": true,
+  "projectFilePath": "/workspaces/TRCsharp/Programs/TRMAR/JSON2CSV/JSON2CSV.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/csvhelper/27.1.1/csvhelper.27.1.1.nupkg.sha512",
+    "/home/vscode/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,40 @@
+{
+  "Inputs": {
+    "zp": "22",
+    "zg": "59",
+    "fw": "76.2",
+    "Ha": "14",
+    "npa": "25",
+    "mod": "4",
+    "oprcd": "168.000004532884",
+    "pinspan": "43.62313197185",
+    "geaspan": "103.157521730252",
+    "pinsbest": "4",
+    "geasbest": "9",
+    "pinOD": "101.856159382791",
+    "geaOD": "250.170576526576",
+    "pinRoot": "83.056159382791",
+    "geaRoot": "231.370576526576",
+    "desiredCD": "168"
+  },
+  "TextBoxValues": {
+    "tbSetNumber": "712504-010",
+    "tbModule": "4",
+    "tbNpa": "25",
+    "tbHa": "14",
+    "tbWDSys": "2.35",
+    "tbAstd": "1",
+    "tbHa0": "1.35",
+    "tbToolRad": "0.25",
+    "tbBmin": ".25",
+    "tbBMax": ".45",
+    "tbFWidth": "76.2",
+    "tbNp": "22",
+    "tbNg": "59",
+    "tbX1": "0.39527",
+    "tbX2": "-0.13178",
+    "tbA1": "1",
+    "tbA2": "1",
+    "tbDesiredCD": "168"
+  }
+}
