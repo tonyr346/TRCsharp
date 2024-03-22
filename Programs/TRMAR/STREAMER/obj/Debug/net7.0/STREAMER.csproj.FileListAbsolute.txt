@@ -12,3 +12,7 @@
 /workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/STREAMER.pdb
 /workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/STREAMER.genruntimeconfig.cache
 /workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/ref/STREAMER.dll
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/bin/Debug/net7.0/CsvHelper.dll
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/bin/Debug/net7.0/Newtonsoft.Json.dll
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/STREAMER.csproj.AssemblyReference.cache
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/STREAMER.csproj.CopyComplete
