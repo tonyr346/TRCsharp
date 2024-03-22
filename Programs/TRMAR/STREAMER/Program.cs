@@ -11,13 +11,17 @@ class Program
     {
         public string N="";
         public double VAL=0;
-        public string U="";
+        public double X=0;
+        public double V = 0; 
 
-        public dataRow (string n, double val, string u)
+        public double Z = 0;
+        public dataRow (string n, double val, double u, double v)
         {
             N=n;
             VAL = val;
-            U = u;
+            X = u;
+            V = v;
+            Z = (X-V)/(X+V);
         }
 
     }
@@ -29,8 +33,7 @@ class Program
         string defaultOut = Path.Combine(outputfolder, defaultstr);
         string name = "Position";
         double j = 2;
-
-        dataRow val1 = new dataRow(name, 1.00, "IN");
+    
 
         List<dataRow> Position = new List<dataRow>();
 
@@ -39,8 +42,9 @@ class Program
             
             string nm = name + Convert.ToString(i);
             double p = 2*j+Math.Pow(j,2)/Math.Pow(j,3)-Math.Pow(j,2);
-
-            dataRow nm1 = new dataRow(Convert.ToString(i), p , "in" );
+            double k = 3*j+(10/j)*Math.Pow(j,2)/Math.Pow(j,4)-Math.Pow(j,2);
+            
+            dataRow nm1 = new dataRow(Convert.ToString(i), p , j , k);
             Position.Add(nm1);
             j = j+.002;
             
@@ -53,7 +57,8 @@ class Program
             
             string rounded =Math.Round(row.VAL, 3).ToString("F3");
             string paddedb = rounded;
-            Console.WriteLine(paddedb);
+
+           
         }
         
 
@@ -61,12 +66,17 @@ class Program
             {
                 foreach (dataRow row in Position)
                 {
-                    string roundedValue = Math.Round(row.VAL, 3).ToString("F5"); // Round to 3 decimal places
+                    string roundedValue = Math.Round(row.VAL, 5).ToString("F5"); // Round to 3 decimal places
                     string paddedValue = roundedValue;
-                    string line = string.Join(",",row.N, paddedValue, row.U);
+                    string roundedX = Math.Round(row.X, 5).ToString("F5");
+                    string roundedV = Math.Round(row.V,5).ToString("F5");
+                    string roundedZ = Math.Round(row.Z,5).ToString("F5");
+                    string line = string.Join(",",roundedX, paddedValue, roundedV, roundedZ);
                     writer.WriteLine(line);
                 }
             } 
+
+            Console.WriteLine("CSV Created Successfully");
         
        
         
