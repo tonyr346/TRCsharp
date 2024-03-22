@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/bin/Debug/net7.0/STREAMER
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/bin/Debug/net7.0/STREAMER.deps.json
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/bin/Debug/net7.0/STREAMER.runtimeconfig.json
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/bin/Debug/net7.0/STREAMER.dll
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/bin/Debug/net7.0/STREAMER.pdb
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/STREAMER.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/STREAMER.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/STREAMER.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/STREAMER.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/STREAMER.dll
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/refint/STREAMER.dll
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/STREAMER.pdb
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/STREAMER.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/TRMAR/STREAMER/obj/Debug/net7.0/ref/STREAMER.dll
