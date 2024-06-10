@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/bin/Debug/net7.0/AMORT
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/bin/Debug/net7.0/AMORT.deps.json
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/bin/Debug/net7.0/AMORT.runtimeconfig.json
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/bin/Debug/net7.0/AMORT.dll
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/bin/Debug/net7.0/AMORT.pdb
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/obj/Debug/net7.0/AMORT.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/obj/Debug/net7.0/AMORT.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/obj/Debug/net7.0/AMORT.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/obj/Debug/net7.0/AMORT.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/obj/Debug/net7.0/AMORT.dll
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/obj/Debug/net7.0/refint/AMORT.dll
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/obj/Debug/net7.0/AMORT.pdb
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/obj/Debug/net7.0/AMORT.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/TRJUN24/AMORT/obj/Debug/net7.0/ref/AMORT.dll
