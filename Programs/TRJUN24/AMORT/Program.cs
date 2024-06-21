@@ -2,26 +2,64 @@
 
 class Program
 {
+    
+    static double PmtCalc(int Years, double rate, double Principle)
+    {
+        double P = Principle;
+        double r = (double) rate / 12/100;
+        int n  = Years*12;
+
+        double pmt =  P*((r*Math.Pow((1+r),n))/((Math.Pow((1+r),n)-1)));
+        return pmt;
+
+    }
+
+    static string ToDollars(double value)
+    {
+        string Value = "$ " + Convert.ToString(Math.Round(value, 2));
+        return Value;
+    }
+    
+    public class Messages
+    {
+        public string Principle = "Enter Principle:   ";
+        public string APR = "Enter APR:  ";
+        public string Years = "Enter Years:   ";
+
+
+    }
+
+    static int GetValueInt()
+    {
+        return Convert.ToInt32(Console.ReadLine());
+    }
+    
+    static double GetValueDbl()
+    {
+        return Convert.ToDouble(Console.ReadLine());
+    }
+
+    static void WriteMessage(string a)
+    {
+        Console.Write(a);
+        
+    }
+   
     static void Main(string[] args)
     {
-        
-        Console.Write("Enter Principle:     ");
-        int P = Convert.ToInt32(Console.ReadLine());
-        
-        
-        Console.Write("Enter Years:         ");
-        int A = Convert.ToInt32(Console.ReadLine());
 
-        Console.Write("Enter Rate (%APR):   ");
-        double b =  Convert.ToDouble(Console.ReadLine());
+        Messages messages= new Messages();
 
-        double r = (double)b/100/12;
-        int n = A*12;
-      
-        
-        double Payment = P*((r*Math.Pow((1+r),n))/((Math.Pow((1+r),n)-1)));
+        WriteMessage(messages.Principle);    
+        double P = GetValueDbl();
+        WriteMessage(messages.Years);    
+        int Years = GetValueInt();
+        WriteMessage(messages.APR);    
+        double Rate = GetValueDbl();
 
-        string PMT = "$ " + Convert.ToString(Math.Round(Payment, 2));
+        double pMT = PmtCalc(Years, Rate, P);
+
+        string PMT = ToDollars(pMT);
 
         Console.WriteLine("Payment:           " + PMT);
 
