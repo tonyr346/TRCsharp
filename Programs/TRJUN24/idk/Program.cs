@@ -32,7 +32,8 @@ class Program
 
 
         Console.WriteLine(House.Name);
-        Console.WriteLine(House.Value);
+        Console.WriteLine($"{InitialValue} Initial Value");
+        Console.WriteLine($"{Math.Round(House.Value,0)} Final Value");
         Console.WriteLine($"{Math.Round(Increase,0)} Percent");
 
     }
