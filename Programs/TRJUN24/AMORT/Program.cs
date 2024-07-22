@@ -44,13 +44,11 @@ class Program
         Console.Write(a);
         
     }
-   
-    static void Main(string[] args)
+
+    static void Custom()
     {
-
-        Messages messages= new Messages();
-
-        WriteMessage(messages.Principle);    
+       Messages messages= new Messages();
+         WriteMessage(messages.Principle);    
         double P = GetValueDbl();
         WriteMessage(messages.Years);    
         int Years = GetValueInt();
@@ -62,6 +60,37 @@ class Program
         string PMT = ToDollars(pMT);
 
         Console.WriteLine("Payment:           " + PMT);
+    }
+   
+    static void Main(string[] args)
+    {
+
+        Messages messages= new Messages();
+        Console.WriteLine("Enter 1 for 30yr Cur Rate, 2 for Custom");
+        int selection = Convert.ToInt32(Console.ReadLine());
+
+        if (selection == 1)
+        {
+            WriteMessage(messages.Principle);    
+            double P = GetValueDbl();
+            double pMT = PmtCalc(30, 6.4, P);
+
+            string PMT = ToDollars(pMT);
+
+            Console.WriteLine("Payment:  " + PMT);         
+        }
+        if (selection == 2)
+        {
+            Custom();
+        }
+        
+    
+        
+           
+            
+        
+
+             
 
 
     }
