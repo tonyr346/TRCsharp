@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/TRJUN24/id2/bin/Debug/net7.0/id2
+/workspaces/TRCsharp/Programs/TRJUN24/id2/bin/Debug/net7.0/id2.deps.json
+/workspaces/TRCsharp/Programs/TRJUN24/id2/bin/Debug/net7.0/id2.runtimeconfig.json
+/workspaces/TRCsharp/Programs/TRJUN24/id2/bin/Debug/net7.0/id2.dll
+/workspaces/TRCsharp/Programs/TRJUN24/id2/bin/Debug/net7.0/id2.pdb
+/workspaces/TRCsharp/Programs/TRJUN24/id2/obj/Debug/net7.0/id2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/TRJUN24/id2/obj/Debug/net7.0/id2.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/TRJUN24/id2/obj/Debug/net7.0/id2.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/TRJUN24/id2/obj/Debug/net7.0/id2.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/TRJUN24/id2/obj/Debug/net7.0/id2.dll
+/workspaces/TRCsharp/Programs/TRJUN24/id2/obj/Debug/net7.0/refint/id2.dll
+/workspaces/TRCsharp/Programs/TRJUN24/id2/obj/Debug/net7.0/id2.pdb
+/workspaces/TRCsharp/Programs/TRJUN24/id2/obj/Debug/net7.0/id2.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/TRJUN24/id2/obj/Debug/net7.0/ref/id2.dll
