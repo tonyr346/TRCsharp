@@ -23,21 +23,29 @@ class Program
         
         Console.WriteLine(Message.M1);
          int i = 0;
+         
+        int dLength = doubles.Length;
 
         foreach (double d in doubles)
         {  
+            if (d ==1)
+            {
+            Console.WriteLine($"{i} {d} ON"); 
+            }
+            else
+            {
+            Console.WriteLine($"{i} {d} OFF");
+            }
             i++;
+        
             
-            if (d == 1)
-                {  
-                Console.WriteLine(i);
-                
-                }
-            
-            
+        
+        
         }
 
-        Console.WriteLine();
+    
+
+        Console.WriteLine($"Total Items: {dLength}");
         Console.WriteLine(Message.M2);
 
 
