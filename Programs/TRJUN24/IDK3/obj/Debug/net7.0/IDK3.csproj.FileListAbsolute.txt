@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/bin/Debug/net7.0/IDK3
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/bin/Debug/net7.0/IDK3.deps.json
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/bin/Debug/net7.0/IDK3.runtimeconfig.json
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/bin/Debug/net7.0/IDK3.dll
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/bin/Debug/net7.0/IDK3.pdb
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/obj/Debug/net7.0/IDK3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/obj/Debug/net7.0/IDK3.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/obj/Debug/net7.0/IDK3.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/obj/Debug/net7.0/IDK3.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/obj/Debug/net7.0/IDK3.dll
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/obj/Debug/net7.0/refint/IDK3.dll
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/obj/Debug/net7.0/IDK3.pdb
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/obj/Debug/net7.0/IDK3.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/TRJUN24/IDK3/obj/Debug/net7.0/ref/IDK3.dll
