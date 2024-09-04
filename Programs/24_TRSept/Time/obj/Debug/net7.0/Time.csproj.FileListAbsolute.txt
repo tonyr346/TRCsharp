@@ -1,0 +1,17 @@
+/workspaces/TRCsharp/Programs/24_TRSept/Time/bin/Debug/net7.0/Time
+/workspaces/TRCsharp/Programs/24_TRSept/Time/bin/Debug/net7.0/Time.deps.json
+/workspaces/TRCsharp/Programs/24_TRSept/Time/bin/Debug/net7.0/Time.runtimeconfig.json
+/workspaces/TRCsharp/Programs/24_TRSept/Time/bin/Debug/net7.0/Time.dll
+/workspaces/TRCsharp/Programs/24_TRSept/Time/bin/Debug/net7.0/Time.pdb
+/workspaces/TRCsharp/Programs/24_TRSept/Time/obj/Debug/net7.0/Time.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/24_TRSept/Time/obj/Debug/net7.0/Time.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/24_TRSept/Time/obj/Debug/net7.0/Time.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/24_TRSept/Time/obj/Debug/net7.0/Time.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/24_TRSept/Time/obj/Debug/net7.0/Time.dll
+/workspaces/TRCsharp/Programs/24_TRSept/Time/obj/Debug/net7.0/refint/Time.dll
+/workspaces/TRCsharp/Programs/24_TRSept/Time/obj/Debug/net7.0/Time.pdb
+/workspaces/TRCsharp/Programs/24_TRSept/Time/obj/Debug/net7.0/Time.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/24_TRSept/Time/obj/Debug/net7.0/ref/Time.dll
+/workspaces/TRCsharp/Programs/24_TRSept/Time/obj/Debug/net7.0/Time.csproj.AssemblyReference.cache
+/workspaces/TRCsharp/Programs/24_TRSept/Time/bin/Debug/net7.0/Newtonsoft.Json.dll
+/workspaces/TRCsharp/Programs/24_TRSept/Time/obj/Debug/net7.0/Time.csproj.CopyComplete
