@@ -1,0 +1,14 @@
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/bin/Debug/net7.0/trINV
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/bin/Debug/net7.0/trINV.deps.json
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/bin/Debug/net7.0/trINV.runtimeconfig.json
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/bin/Debug/net7.0/trINV.dll
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/bin/Debug/net7.0/trINV.pdb
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/obj/Debug/net7.0/trINV.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/obj/Debug/net7.0/trINV.AssemblyInfoInputs.cache
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/obj/Debug/net7.0/trINV.AssemblyInfo.cs
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/obj/Debug/net7.0/trINV.csproj.CoreCompileInputs.cache
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/obj/Debug/net7.0/trINV.dll
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/obj/Debug/net7.0/refint/trINV.dll
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/obj/Debug/net7.0/trINV.pdb
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/obj/Debug/net7.0/trINV.genruntimeconfig.cache
+/workspaces/TRCsharp/Programs/24_TRSept/INV24/trINV/obj/Debug/net7.0/ref/trINV.dll

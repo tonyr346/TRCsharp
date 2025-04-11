@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
+       List<string> list1 = new List<string>();
+       
        Dictionary<int, string> myDictionary = new Dictionary<int, string>();
 
         // Adding elements to the dictionary
@@ -18,6 +20,11 @@ class Program
         foreach (var kvp in myDictionary)
         {
             Console.WriteLine($"Key: {kvp.Key}, Value: {kvp.Value}");
+            list1.Add(kvp.Value);
         }
+
+        foreach(var kvp1 in list1)
+        {Console.WriteLine(list1);};
+
     }
 }

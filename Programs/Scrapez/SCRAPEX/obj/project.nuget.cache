@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2YdgFEt4Fiy7j/yhbU6zIV/vRwz2nmiT3obNvOVTIRiC/U0uLlZQVxGBclUuQPvb2xQ3/hHR9ThcUFRrH3ADg==",
+  "success": true,
+  "projectFilePath": "/workspaces/TRCsharp/Programs/Scrapez/SCRAPEX/SCRAPEX.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/selenium.support/4.24.0/selenium.support.4.24.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/selenium.webdriver/4.24.0/selenium.webdriver.4.24.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/selenium.webdriver.chromedriver/129.0.6668.5800/selenium.webdriver.chromedriver.129.0.6668.5800.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.drawing.common/8.0.8/system.drawing.common.8.0.8.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.json/8.0.4/system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
