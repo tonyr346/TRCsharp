@@ -51,7 +51,7 @@ namespace GearMethods
                 x = deltaX;
             }
 
-            throw new InvalidOperationException("Failed to converge");
+            throw new InvalidOperationException("Failed to convrge");
         }
     }
 
